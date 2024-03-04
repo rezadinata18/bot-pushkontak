@@ -1,1 +1,8 @@
-[{email: "arsmdinata@gmail.com", password: "ahmad18sr", number: "6283131153300@s.whatsapp.net", ip: "192.168.1.13"}]
+[
+  {
+    "email": "arsmdinata@gmail.com",
+    "password": "ahmad18sr",
+    "number": "6283131153300@s.whatsapp.net",
+    "ip": "192.168.1.13"
+  }
+]
